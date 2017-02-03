@@ -1,5 +1,5 @@
 
-ECE 4750 Tutorial 4: Verilog Hardware Description Language
+ECE 4750 (Cornell University) Tutorial 4: Verilog Hardware Description Language
 ==========================================================================
 
 This repository contains source code for ECE 4750 Tutorial 4 on the
